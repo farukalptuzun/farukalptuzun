@@ -11,6 +11,7 @@
   - AI Reklam Görseli Üretim Sistemi  
   - Dental Simulation AI
   - Kurumsal Chatbot Agent
+  - Reklam Kampanya Oluşturma Ve Yönetim Projesi
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

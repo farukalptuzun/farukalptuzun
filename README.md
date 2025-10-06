@@ -11,6 +11,7 @@
   - AI Reklam Görseli Üretim Sistemi  
   - Dental Simulation AI
   - Kurumsal Chatbot Agent
+  - Fitness coach Projesi(llm ile antrenman programı, beslenme programı, istege göre motifikasyon oluşturma ve ürünlerin besin degerlerini analiz etme)
   - Reklam Kampanya Oluşturma Ve Yönetim Projesi
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 

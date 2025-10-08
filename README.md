@@ -15,7 +15,6 @@
   - Reklam Kampanya Oluşturma Ve Yönetim Projesi
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
-
 ---
 
 ## Kullandığım Teknolojiler

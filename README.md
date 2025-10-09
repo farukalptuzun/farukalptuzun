@@ -41,6 +41,5 @@
 - 💼 [LinkedIn](https://linkedin.com/in/faruk-alptüzün-750b36153)  
 
 ---
-
 ## ✨ Fun Fact
 > “Kod yazarken kahvemden vazgeçmem, projelerimde yaratıcılıktan vazgeçmem 🚀”

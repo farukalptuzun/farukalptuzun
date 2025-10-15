@@ -11,8 +11,8 @@
   - AI Reklam Görseli Üretim Sistemi (private)  
   - Dental Simulation AI (private)  
   - Kurumsal Chatbot Agent (private)  
-  - Fitness coach Projesi (llm ile antrenman programı, beslenme programı, istege göre motifikasyon oluşturma ve ürünlerin besin degerlerini analiz etme)
-  - Reklam Kampanya Oluşturma Ve Yönetim Projesi
+  - Fitness coach Projesi (llm ile antrenman programı, beslenme programı, istege göre motifikasyon oluşturma ve ürünlerin besin degerlerini analiz etme) (private)  
+  - Reklam Kampanya Oluşturma Ve Yönetim Projesi(X/twitter) (private)  
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

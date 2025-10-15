@@ -8,8 +8,8 @@
 - 🧠 İlgi alanlarım: Multimodal AI, Transformer tabanlı modeller, Stable Diffusion, NLP, LLM & CV. 
 - Projeler Geliştiriyorum:  
   - Multimodal Sentiment Analysis  
-  - AI Reklam Görseli Üretim Sistemi  
-  - Dental Simulation AI
+  - AI Reklam Görseli Üretim Sistemi(private)  
+  - Dental Simulation AI(private)  
   - Kurumsal Chatbot Agent
   - Fitness coach Projesi (llm ile antrenman programı, beslenme programı, istege göre motifikasyon oluşturma ve ürünlerin besin degerlerini analiz etme)
   - Reklam Kampanya Oluşturma Ve Yönetim Projesi

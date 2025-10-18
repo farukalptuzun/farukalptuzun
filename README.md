@@ -38,7 +38,7 @@
 
 ## 🌍 Bağlantılar
 - 💼 [LinkedIn](https://linkedin.com/in/faruk-alptüzün-750b36153)  
-
+- 💼 [UpWork](https://www.upwork.com/freelancers/farukalptuzun)
 ---
 ## ✨ Fun Fact
 > “Kod yazarken kahvemden vazgeçmem, projelerimde yaratıcılıktan vazgeçmem 🚀”

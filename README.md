@@ -42,3 +42,4 @@
 ---
 ## ✨ Fun Fact
 > “Kod yazarken kahvemden vazgeçmem, projelerimde yaratıcılıktan vazgeçmem 🚀”
+

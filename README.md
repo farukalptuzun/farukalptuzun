@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farukalptuzun&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=farukalptuzun&show_icons=true&theme=radical&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukalptuzun&layout=compact&theme=radical)
 ---
 

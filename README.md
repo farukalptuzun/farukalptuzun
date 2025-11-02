@@ -13,7 +13,8 @@
   - Kurumsal Chatbot Agent (private)
   - Sesli asistan (Modül Geliştirme) (private) 
   - Fitness coach Projesi (llm ile antrenman programı, beslenme programı, istege göre motifikasyon oluşturma ve ürünlerin besin degerlerini analiz etme) (private)  
-  - Reklam Kampanya Oluşturma Ve Yönetim Projesi(X/twitter) (private)  
+  - Reklam Kampanya Oluşturma Ve Yönetim Projesi(X/twitter) (private)
+  - Hakemly (Kişiler arasında arasında arabuluculuk görevi üstlenen AI sesli asistan uygulaması)
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

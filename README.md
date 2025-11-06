@@ -3,6 +3,7 @@
 🎯 Yapay Zeka & Veri Bilimi yolculuğundayım. Amacım uzun vadede **AI Engineer** olarak multimodal yapay zeka, bilgisayarlı görü ve doğal dil işleme alanlarında üretken projeler geliştirmek.
 ---
 
+
 ## 🚀 Hakkımda
 - 📚 Şu anda **Veri Bilimi** ve **Yapay Zeka Mühendisliği** üzerine çalışıyorum.  
 - 🧠 İlgi alanlarım: Multimodal AI, Transformer tabanlı modeller, Stable Diffusion, NLP, LLM & CV. 

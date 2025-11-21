@@ -12,10 +12,12 @@
   - AI Reklam Görseli Üretim Sistemi (private)  
   - Dental Simulation AI (private)  
   - Kurumsal Chatbot Agent (private)
+    - https://github.com/farukalptuzun/kurumsal-chat-bot-private-project-
   - Sesli asistan (Modül Geliştirme) (private) 
   - Fitness coach Projesi (llm ile antrenman programı, beslenme programı, istege göre motifikasyon oluşturma ve ürünlerin besin degerlerini analiz etme) (private)  
   - Reklam Kampanya Oluşturma Ve Yönetim Projesi(X/twitter) (private)
-  - Hakemly (Kişiler arasında arasında arabuluculuk görevi üstlenen AI sesli asistan uygulaması)(private) https://github.com/farukalptuzun/Hakemly
+  - Hakemly (Kişiler arasında arasında arabuluculuk görevi üstlenen AI sesli asistan uygulaması)(private)
+    - https://github.com/farukalptuzun/Hakemly
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

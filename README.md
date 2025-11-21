@@ -6,7 +6,7 @@
 
 ## 🚀 Hakkımda
 - 📚 Şu anda **Veri Bilimi** ve **Yapay Zeka Mühendisliği** üzerine çalışıyorum.  
-- 🧠 İlgi alanlarım: Multimodal AI, Transformer tabanlı modeller, Stable Diffusion, NLP, LLM & CV. 
+- 🧠 İlgi alanlarım: Multimodal AI, API based systems, Transformer tabanlı modeller, Stable Diffusion, NLP, LLM & CV. 
 - Projeler Geliştiriyorum:  
   - Multimodal Sentiment Analysis  
   - AI Reklam Görseli Üretim Sistemi (private)  

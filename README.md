@@ -18,6 +18,7 @@
     - https://github.com/farukalptuzun/Vayno-ai
   - Reklam Kampanya Oluşturma Ve Yönetim Projesi(X/twitter) (private)
   - Ai-Studio (private)
+    - https://github.com/farukalptuzun/ai_studio
   - Hakemly (Kişiler arasında arasında arabuluculuk görevi üstlenen AI sesli asistan uygulaması)(private)
     - https://github.com/farukalptuzun/Hakemly
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  

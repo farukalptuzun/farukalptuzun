@@ -21,6 +21,8 @@
     - https://github.com/farukalptuzun/ai_studio
   - Hakemly (Kişiler arasında arasında arabuluculuk görevi üstlenen AI sesli asistan uygulaması)(private)
     - https://github.com/farukalptuzun/Hakemly
+  - Llama-3-8b kurumsal chatbot için base model fine-tune
+    - https://github.com/farukalptuzun/ollama-chatbot-fine-tune
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

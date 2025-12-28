@@ -21,9 +21,9 @@
     - https://github.com/farukalptuzun/ai_studio
   - Hakemly (Kişiler arasında arasında arabuluculuk görevi üstlenen AI sesli asistan uygulaması)(private)
     - https://github.com/farukalptuzun/Hakemly
-  - Kurumsal chatbot veriseti hazırlama ve veri seti temizligi
+  - Kurumsal Chatbot Veri Seti Hazırlama ve Temizleme - Çok kaynaklı veri toplama, format normalizasyonu, dil filtresi, deduplication, PII filtreleme ve kalite kontrolü içeren modüler pipeline
     - https://github.com/farukalptuzun/Chatbot_pre_train_data_cleaning
-  -  Llama-3-8b kurumsal chatbot için base model fine-tune
+  -  Llama-3-8B Kurumsal Chatbot Fine-Tune ve Optuna Optimizasyonu
     - https://github.com/farukalptuzun/ollama-chatbot-fine-tune
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 

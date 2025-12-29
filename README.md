@@ -23,7 +23,7 @@
   - Kurumsal Chatbot Veri Seti Hazırlama ve Temizleme - Çok kaynaklı veri toplama, format normalizasyonu, dil filtresi, deduplication, PII filtreleme ve kalite kontrolü içeren modüler pipeline
     - https://github.com/farukalptuzun/Chatbot_pre_train_data_cleaning
   -  Llama-3-8B Kurumsal Chatbot Fine-Tune ve Optuna Optimizasyonu
-    -  https://github.com/farukalptuzun/ollama-chatbot-fine-tune
+    - https://github.com/farukalptuzun/ollama-chatbot-fine-tune
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

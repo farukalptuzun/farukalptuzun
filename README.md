@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Faruk  
 
-🎯 Yapay Zeka & Veri Bilimi yolculuğundayım. Amacım uzun vadede **AI Engineer** olarak multimodal yapay zeka, bilgisayarlı görü ve doğal dil işleme alanlarında üretken projeler geliştirmek.
+🎯 Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temeli olanlar, problem çözenler, "neden?" sorusuna cevap verebilenler.
 ---
 
 

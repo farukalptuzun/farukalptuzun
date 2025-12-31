@@ -53,5 +53,5 @@ Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temel
 - 💼 [UpWork](https://www.upwork.com/freelancers/farukalptuzun)
 ---
 ## ✨ Fun Fact
-> “Kod yazarken kahvemden vazgeçmem, projelerimde yaratıcılıktan vazgeçmem 🚀”
+> “Loss ↓, accuracy ↑.”
 

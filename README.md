@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Faruk  
 
-🎯 Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temeli olanlar, problem çözenler, "neden?" sorusuna cevap verebilenler.
+Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temeli olanlar, problem çözenler, "neden?" sorusuna cevap verebilenler.
 ---
 
 

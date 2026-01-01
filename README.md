@@ -24,6 +24,7 @@ Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temel
     - https://github.com/farukalptuzun/Chatbot_pre_train_data_cleaning
   -  Llama-3-8B Kurumsal Chatbot Fine-Tune ve Optuna Optimizasyonu
     - https://github.com/farukalptuzun/ollama-chatbot-fine-tune
+  - Sesli Asistan Projesi(freeswitch)
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
 ---

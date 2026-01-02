@@ -8,7 +8,9 @@ Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temel
 - 📚 Şu anda **Veri Bilimi** ve **Yapay Zeka Mühendisliği** üzerine çalışıyorum.  
 - 🧠 İlgi alanlarım: Multimodal AI, API based systems, Transformer tabanlı modeller, Stable Diffusion, NLP, LLM & CV. 
 - Projeler Geliştiriyorum:  
-  - Multimodal Sentiment Analysis    
+  - Multimodal Sentiment Analysis
+  - Sesli Asistan – Modüler Mimari & FreeSWITCH
+    - https://github.com/farukalptuzun/Freeswitch_voice_assistant
   - Dental Simulation AI (private)  
   - Kurumsal Chatbot Agent (private)
     - https://github.com/farukalptuzun/kurumsal-chat-bot-private-project-

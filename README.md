@@ -56,4 +56,4 @@ Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temel
 ---
 ## ✨ Fun Fact
 > “Loss ↓, accuracy ↑.”
-
+> 

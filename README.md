@@ -43,7 +43,6 @@ Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temel
 </p>
 
 ---
-
 ## 📊 GitHub İstatistiklerim
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farukalptuzun&show_icons=true&theme=radical&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukalptuzun&layout=compact&theme=radical)

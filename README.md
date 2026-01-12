@@ -3,7 +3,6 @@
 Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temeli olanlar, problem çözenler, "neden?" sorusuna cevap verebilenler.
 ---
 
-
 ## 🚀 Hakkımda
 - 📚 Şu anda **Veri Bilimi** ve **Yapay Zeka Mühendisliği** üzerine çalışıyorum.  
 - 🧠 İlgi alanlarım: Multimodal AI, API based systems, Transformer tabanlı modeller, Stable Diffusion, NLP, LLM & CV. 

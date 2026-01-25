@@ -27,7 +27,6 @@ Sektör şişiyor, gürültü artıyor ama gerçek üreticiler hala belli. Temel
     - https://github.com/farukalptuzun/ollama-chatbot-fine-tune
 - 🌱 Öğrendiklerimi GitHub’ta paylaşarak ilerliyorum.  
 
-
 ---
 ## Kullandığım Teknolojiler
 <p>
